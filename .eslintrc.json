@@ -9,11 +9,16 @@
     "prettier/standard"
   ],
   "plugins": ["react", "import"],
+  "parser": "babel-eslint",
   "rules": {
     "react/prefer-stateless-function": "off",
     "react/prop-types": "off",
     "react/no-danger": "off",
-    "prefer-destructuring": "off"
+    "prefer-destructuring": "off",
+    "strict": "off",
+    "react/jsx-no-target-blank": "warn",
+    "react/no-unused-prop-types": "off",
+    "react/no-unescaped-entities": "off"
   },
   "settings": {
     "import/core-modules": []
