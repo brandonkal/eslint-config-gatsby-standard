@@ -1,7 +1,8 @@
 {
   "name": "eslint-config-gatsby-standard",
   "version": "1.0.0",
-  "description": "Yet Another ESLint Config. This one installs rules required to use standardJS",
+  "description":
+    "Yet Another ESLint Config. This one installs rules required to use standardJS with Gatsby projects",
   "main": ".eslintrc.json",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -24,9 +25,11 @@
     "style",
     "eslintconfig",
     "standard",
-    "style"
+    "style",
+    "GatsbyJS",
+    "eslint"
   ],
-  "author": "Brandon Kalinowski <bwebservice@gmail.com>",
+  "author": "Brandon Kalinowski",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/brandonkal/eslint-config-gatsby-standard/issues"
