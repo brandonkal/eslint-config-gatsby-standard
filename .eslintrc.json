@@ -1,0 +1,27 @@
+{
+  "extends": [
+    "standard",
+    "standard-react",
+    "plugin:import/errors",
+    "plugin:react/recommended",
+    "prettier",
+    "prettier/react",
+    "prettier/standard"
+  ],
+  "plugins": ["react", "import"],
+  "rules": {
+    "react/prefer-stateless-function": "off",
+    "react/prop-types": "off",
+    "react/no-danger": "off",
+    "prefer-destructuring": "off"
+  },
+  "settings": {
+    "import/core-modules": []
+  },
+  "env": {
+    "browser": true
+  },
+  "globals": {
+    "graphql": true
+  }
+}

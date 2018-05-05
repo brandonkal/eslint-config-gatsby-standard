@@ -1,0 +1,17 @@
+#OS
+.DS_Store
+
+#logs
+*.log
+npm-debug.log*
+
+# Dependencies
+node_modules
+
+# Caches
+.npm
+.eslintcache
+.cache
+
+#Lock File
+package-lock.json

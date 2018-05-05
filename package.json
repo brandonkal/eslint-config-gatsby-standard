@@ -1,0 +1,51 @@
+{
+  "name": "eslint-config-gatsby-standard",
+  "version": "1.0.0",
+  "description": "Yet Another ESLint Config. This one installs rules required to use standardJS",
+  "main": ".eslintrc.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://brandonkal@github.com/brandonkal/eslint-config-gatsby-standard.git"
+  },
+  "keywords": [
+    "gatsby",
+    "standard",
+    "JavaScript",
+    "Standard",
+    "Style",
+    "code",
+    "code",
+    "linter",
+    "lint",
+    "code",
+    "style",
+    "eslintconfig",
+    "standard",
+    "style"
+  ],
+  "author": "Brandon Kalinowski <bwebservice@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brandonkal/eslint-config-gatsby-standard/issues"
+  },
+  "homepage": "https://github.com/brandonkal/eslint-config-gatsby-standard#readme",
+  "dependencies": {
+    "eslint-config-prettier": "^2.9.0",
+    "eslint-config-standard": "^11.0.0",
+    "eslint-config-standard-react": "^6.0.0",
+    "eslint-plugin-import": "^2.11.0",
+    "eslint-plugin-node": "^6.0.1",
+    "eslint-plugin-promise": "^3.7.0",
+    "eslint-plugin-react": "^7.7.0",
+    "eslint-plugin-standard": "^3.1.0"
+  },
+  "devDependencies": {
+    "eslint": "4.19.1"
+  },
+  "peerDependencies": {
+    "eslint": "^4.2.0"
+  }
+}
