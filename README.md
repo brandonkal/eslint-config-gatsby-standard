@@ -35,15 +35,15 @@ content
 
 ## Plugins Used:
 
-* [eslint-config-standard](https://www.npmjs.com/package/eslint-config-standard)
-* [eslint-plugin-standard](https://www.npmjs.com/package/eslint-plugin-standard)
-* [eslint-plugin-react](https://www.npmjs.com/package/eslint-plugin-react)
-* [eslint-plugin-babel](https://github.com/babel/eslint-plugin-babel)
-* [eslint-config-standard-react](https://www.npmjs.com/package/eslint-config-standard-react)
-* [eslint-plugin-import](https://www.npmjs.com/package/eslint-plugin-import)
-* [eslint-plugin-node](https://www.npmjs.com/package/eslint-plugin-node)
-* [eslint-plugin-promise](https://www.npmjs.com/package/eslint-plugin-promise)
-* [eslint-config-prettier](https://www.npmjs.com/package/eslint-config-prettier)
+- [eslint-config-standard](https://www.npmjs.com/package/eslint-config-standard)
+- [eslint-plugin-standard](https://www.npmjs.com/package/eslint-plugin-standard)
+- [eslint-plugin-react](https://www.npmjs.com/package/eslint-plugin-react)
+- [eslint-plugin-babel](https://github.com/babel/eslint-plugin-babel)
+- [eslint-config-standard-react](https://www.npmjs.com/package/eslint-config-standard-react)
+- [eslint-plugin-import](https://www.npmjs.com/package/eslint-plugin-import)
+- [eslint-plugin-node](https://www.npmjs.com/package/eslint-plugin-node)
+- [eslint-plugin-promise](https://www.npmjs.com/package/eslint-plugin-promise)
+- [eslint-config-prettier](https://www.npmjs.com/package/eslint-config-prettier)
 
 ## Use With Atom
 
@@ -51,7 +51,6 @@ To use with prettier just add the `.prettierrc.json` config file to the root of 
 
 ```json
 {
-  "printWidth": 100,
   "semi": false,
   "singleQuote": true,
   "trailingComma": "es5"
