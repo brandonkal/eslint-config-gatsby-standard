@@ -1,6 +1,9 @@
 # Gatsby Standard - ESLint Config
 
+Easily Lint your Gatsby site projects for StandardJS.
+
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com) [![npm](https://img.shields.io/npm/v/eslint-config-gatsby-standard.svg)](https://www.npmjs.com/package/eslint-config-gatsby-standard)
+[![npm](https://img.shields.io/npm/dt/eslint-config-gatsby-standard.svg)](https://www.npmjs.com/package/eslint-config-gatsby-standard)
 
 ESLint rule configuration for Gatsby Sites. This rule set is designed to closely match the Gatsby Starters while still following StandardJS. Simply install and extend to clean up your GatsbyJS code! The plugins and parser used are dependencies of this project. No need to specify them separately in your project.
 
