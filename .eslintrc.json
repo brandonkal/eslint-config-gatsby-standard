@@ -4,9 +4,7 @@
     "standard-react",
     "plugin:import/errors",
     "plugin:react/recommended",
-    "prettier",
-    "prettier/react",
-    "prettier/standard"
+    "prettier"
   ],
   "plugins": ["react", "import"],
   "parser": "babel-eslint",

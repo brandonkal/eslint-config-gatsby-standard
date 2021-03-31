@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-gatsby-standard",
-  "version": "3.0.1",
+  "version": "3.0.2",
   "description": "Yet Another ESLint Config. This one installs rules required to use standardJS with Gatsby projects",
   "main": ".eslintrc.json",
   "scripts": {
