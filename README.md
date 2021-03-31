@@ -78,4 +78,4 @@ Be sure to check "Run Prettier Last" and optionally "Format Files on Save" and "
 
 ## License
 
-MIT &copy; 2018 Brandon Kalinowski
+MIT &copy; 2021 Brandon Kalinowski
