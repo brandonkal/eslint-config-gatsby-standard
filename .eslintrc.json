@@ -7,7 +7,7 @@
     "prettier"
   ],
   "plugins": ["react", "import"],
-  "parser": "babel-eslint",
+  "parser": "@babel/eslint-parser",
   "rules": {
     "react/prefer-stateless-function": "off",
     "react/prop-types": "off",
