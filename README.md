@@ -9,7 +9,7 @@ ESLint rule configuration for Gatsby Sites. This rule set is designed to closely
 
 This config is designed to be used in conjunction with prettier for automatic code formatting. Conflicting rules have been disabled through `eslint-config-prettier`. See the "Use With Atom" section below for a suggestion on how to implement this config with prettier for automatic linting and formatting.
 
-`babel-eslint` is included to support new JavaScript features used in advanced Gatsby projects.
+`@babel/eslint-parser` is included to support new JavaScript features used in advanced Gatsby projects.
 
 ## Usage
 
@@ -38,10 +38,10 @@ content
 
 ## Plugins Used:
 
+- [@babel/eslint-plugin](https://github.com/babel/babel/tree/main/eslint/babel-eslint-plugin)
 - [eslint-config-standard](https://www.npmjs.com/package/eslint-config-standard)
 - [eslint-plugin-standard](https://www.npmjs.com/package/eslint-plugin-standard)
 - [eslint-plugin-react](https://www.npmjs.com/package/eslint-plugin-react)
-- [eslint-plugin-babel](https://github.com/babel/eslint-plugin-babel)
 - [eslint-config-standard-react](https://www.npmjs.com/package/eslint-config-standard-react)
 - [eslint-plugin-import](https://www.npmjs.com/package/eslint-plugin-import)
 - [eslint-plugin-node](https://www.npmjs.com/package/eslint-plugin-node)
