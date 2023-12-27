@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## Unreleased - 2023-12-26
 
+### Changed
+
+- Switched from `babel-eslint` to `babel/eslint-parser` to ensure forward compatibility. `babel-eslint` has changed its name to `babel/eslint-parser`
+
 ### Updated
 
 - Upgrade `eslint` from ^7.23.0 to ^8.56.0
