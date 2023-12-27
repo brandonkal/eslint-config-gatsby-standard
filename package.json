@@ -36,15 +36,15 @@
   "homepage": "https://github.com/brandonkal/eslint-config-gatsby-standard#readme",
   "dependencies": {
     "@babel/eslint-parser": "^7.16.5",
-    "eslint-config-prettier": "^8.1.0",
-    "eslint-config-standard": "^16.0.2",
-    "eslint-config-standard-react": "^11.0.1",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-config-standard": "^17.1.0",
+    "eslint-config-standard-react": "^13.0.0",
     "eslint-plugin-import": "^2.22.1",
     "eslint-plugin-node": "^11.1.0",
-    "eslint-plugin-promise": "^4.3.1",
+    "eslint-plugin-promise": "^6.1.1",
     "eslint-plugin-react": "^7.23.1"
   },
   "peerDependencies": {
-    "eslint": "^7.23.0"
+    "eslint": "^8.56.0"
   }
 }
