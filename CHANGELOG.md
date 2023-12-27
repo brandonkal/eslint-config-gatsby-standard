@@ -13,7 +13,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ### Updated
 
-- Upgrade `eslint` from ^7.23.0 to ^8.56.0
+- Upgrade `eslint` from ^7.23.0 to ^8.56.0. For an upgrade guide and potential BC breaks, see: https://eslint.org/docs/latest/use/migrate-to-8.0.0
 - Upgraded `eslint-config-prettier` from ^8.1.0 to ^9.1.0. For changelog and potential BC breaks, see: https://github.com/prettier/eslint-config-prettier/blob/main/CHANGELOG.md#version-910-2023-12-02
 - Upgrade `eslint-config-standard` from ^16.0.2 to ^17.1.0. For changelog, see: https://github.com/standard/standard/blob/master/CHANGELOG.md#1710---2023-05-29
 - Upgrade `eslint-config-standard-react` from ^11.0.1 to ^13.0.0
