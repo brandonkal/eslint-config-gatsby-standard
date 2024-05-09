@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-gatsby-standard",
-  "version": "4.0.0",
+  "version": "5.0.0",
   "description": "Yet Another ESLint Config. This one installs rules required to use standardJS with Gatsby projects",
   "main": ".eslintrc.json",
   "scripts": {
@@ -35,14 +35,14 @@
   },
   "homepage": "https://github.com/brandonkal/eslint-config-gatsby-standard#readme",
   "dependencies": {
-    "@babel/eslint-parser": "^7.16.5",
+    "@babel/eslint-parser": "^7.24.5",
     "eslint-config-prettier": "^9.1.0",
     "eslint-config-standard": "^17.1.0",
     "eslint-config-standard-react": "^13.0.0",
-    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-import": "^2.29.1",
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-promise": "^6.1.1",
-    "eslint-plugin-react": "^7.23.1"
+    "eslint-plugin-react": "^7.34.1"
   },
   "peerDependencies": {
     "eslint": "^8.56.0"
